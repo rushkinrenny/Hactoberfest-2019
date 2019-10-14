@@ -72,6 +72,7 @@ https://hacktoberfest.digitalocean.com/
 Add a Your_Name.md file to the profiles directory. Use any combination of content and Markdown you'd like. Here is an example:
 
 # Your Name
+Your Name
 
 ### Location
 
