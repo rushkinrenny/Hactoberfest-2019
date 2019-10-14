@@ -64,7 +64,7 @@ https://hacktoberfest.digitalocean.com/
 
 > Add your name to the CONTRIBUTORS.md file using the below convention:
 
-# Name: [YOUR NAME](GitHub link)
+# Name: [Your Name](GitHub link)
 - Place: City, State, Country
 - Bio: Who are you?
 - GitHub: [GitHub account name](GitHub link)
@@ -75,7 +75,7 @@ Add a Your_Name.md file to the profiles directory. Use any combination of conten
 
 ### Location
 
-Your City/Country
+Yur City/Country
 
 ### Academics
 
